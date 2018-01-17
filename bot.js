@@ -38,4 +38,4 @@ console.log('SGB is ready ');
 bot.user.setActivity(`over ${bot.guilds.size} servers.. ;)`,{type : "WATCHING"});
 });
 
-bot.login('NDAzMTc3MDcxNDIzMTI3NTYz.DUDfbQ.fx94DXJsrpkPX1VI0Dswv_c5vQ0');
+bot.login();
