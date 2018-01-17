@@ -8,4 +8,6 @@ The prefix is ` ! ` but soon it will be customizable..
 
 2-`clear` It clears the messages in that channel . **USAGE**-``` !clear 30 ```.It deletes the last 30 messages.It requires **MANAGE MESSAGES** permissions.
 
+3-`help` Displays the help command.
+
 Thats it for now but i will be making some advanced commands in the future
